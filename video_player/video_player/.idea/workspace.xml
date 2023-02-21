@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed7b5f34-09ed-47ad-a359-78cdf622e1cd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/android/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/example/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/example/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/example/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" beforeDir="false" afterPath="$PROJECT_DIR$/example/.flutter-plugins-dependencies" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/android/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/example/android/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/example/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/example/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_android/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_android/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_android/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_android/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/.dart_tool/package_config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/.dart_tool/package_config_subset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/.dart_tool/version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/.flutter-plugins" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/.flutter-plugins-dependencies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/androidTest/java/io/flutter/plugins/DartIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/androidTest/java/io/flutter/plugins/videoplayerexample/FlutterActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/main/res/xml/network_security_config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/app/src/test/java/io/flutter/plugins/videoplayerexample/FlutterActivityTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/assets/Butterfly-209.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/assets/flutter-mark-square-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/integration_test/video_player_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/lib/mini_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/test_driver/integration_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/example/test_driver/video_player.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_android/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_android/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_android/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/assets/Butterfly-209.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/assets/flutter-mark-square-64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/integration_test/video_player_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Podfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/AppDelegate.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/AppDelegate.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/Runner/main.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/RunnerTests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/RunnerTests/VideoPlayerTests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/RunnerUITests/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/ios/RunnerUITests/VideoPlayerUITests.m" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/lib/mini_controller.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/test_driver/integration_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/example/test_driver/video_player.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_avfoundation/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_avfoundation/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_platform_interface/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/.dart_tool/package_config_subset" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_platform_interface/.dart_tool/package_config_subset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/.dart_tool/version" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_platform_interface/.dart_tool/version" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/.idea/libraries/Dart_Packages.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/.idea/libraries/Dart_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/.packages" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_platform_interface/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_platform_interface/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_platform_interface/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../video_player_web/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../video_player_web/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="13f884a1-6273-44e5-8ad3-e8d4e7485d55" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M0DeWBU5HT5IaTdLPAALTelW9q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;flutter.settings&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/example/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed7b5f34-09ed-47ad-a359-78cdf622e1cd" name="Changes" comment="" />
+      <created>1676895701864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676895701864</updated>
+    </task>
+    <servers />
+  </component>
+</project>
